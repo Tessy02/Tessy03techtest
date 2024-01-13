@@ -22,4 +22,5 @@ The between git fetch and pull is that git pull copies changes from a remote rep
 
 EXPLAIN THE SIMPLE TERM CHERRYPICK AND THE COMMAND USED FOR IT
 
-Cherry picking is the act of picking a commit from a branch and applying it to another. git cherry-pick can be useful for undoing changes. The command is Syntax:$ git cherry-pick
+Cherry picking is the act of picking a commit from a branch and applying it to another. git cherry-pick can be useful for undoing changes.
+ The command is Syntax:$ git cherry-pick
